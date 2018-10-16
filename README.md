@@ -1,5 +1,5 @@
 # android-ws-debugger
-a android websocket debugger to log message to local
+:open_file_folder: an android websocket debugger to log message to local
 
 ### install
 ```
